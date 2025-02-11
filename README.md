@@ -2,4 +2,4 @@
 1. Autenticação via nome de usuário e senha
 2. Autenticação via token de acesso pessoal
 3. Alteração
-4. Alteração Branch (versao_01)
+4. mudado por copiloto
